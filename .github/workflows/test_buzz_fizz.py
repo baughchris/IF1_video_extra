@@ -1,7 +1,3 @@
-#Establishing Range
-for i in range(1,101):
-    print (i)
-
     #Creating Fizz Buzz Criteria
 #Fizz Buzz
 
