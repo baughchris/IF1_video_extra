@@ -1,4 +1,4 @@
-    #Creating Fizz Buzz Criteria
+#Creating Fizz Buzz Criteria
 #Fizz Buzz
 
 for i in range(1, 101):
